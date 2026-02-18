@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## HELLO!
+Here is where you'll find a compilation of files holding the source code to my projects.
 <!--
 **laurencc888/laurencc888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
